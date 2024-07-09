@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\cqrs\\cqrs\\cqrs_demo\\cqrs_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|solutionrelative:cqrs_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\cqrs\\cqrs\\cqrs_demo\\cqrs_demo\\commands\\employeecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|solutionrelative:cqrs_demo\\commands\\employeecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\cqrs\\cqrs\\cqrs_demo\\cqrs_demo\\queries\\employeequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|solutionrelative:cqrs_demo\\queries\\employeequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\cqrs\\cqrs\\cqrs_demo\\cqrs_demo\\repositories\\employeequeriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|solutionrelative:cqrs_demo\\repositories\\employeequeriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\cqrs\\cqrs\\cqrs_demo\\cqrs_demo\\repositories\\employeecommandsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|solutionrelative:cqrs_demo\\repositories\\employeecommandsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\cqrs\\cqrs\\cqrs_demo\\cqrs_demo\\queries\\iemployeequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|solutionrelative:cqrs_demo\\queries\\iemployeequeries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\cqrs\\cqrs\\cqrs_demo\\cqrs_demo\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|solutionrelative:cqrs_demo\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\cqrs\\cqrs\\cqrs_demo\\cqrs_demo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|solutionrelative:cqrs_demo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\cqrs\\cqrs\\cqrs_demo\\cqrs_demo\\commands\\iemployeecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|solutionrelative:cqrs_demo\\commands\\iemployeecommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\cqrs\\cqrs\\cqrs_demo\\cqrs_demo\\repositories\\iemployeecommandsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|solutionrelative:cqrs_demo\\repositories\\iemployeecommandsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\cqrs\\cqrs\\cqrs_demo\\cqrs_demo\\repositories\\iemployeequeriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682E2DC7-37FA-422D-9EA0-BC266547CF64}|CQRS_Demo\\CQRS_Demo.csproj|solutionrelative:cqrs_demo\\repositories\\iemployeequeriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeQueries.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\Queries\\EmployeeQueries.cs",
+              "RelativeDocumentMoniker": "CQRS_Demo\\Queries\\EmployeeQueries.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\Queries\\EmployeeQueries.cs",
+              "RelativeToolTip": "CQRS_Demo\\Queries\\EmployeeQueries.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:46:05.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeCommands.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\Commands\\EmployeeCommands.cs",
+              "RelativeDocumentMoniker": "CQRS_Demo\\Commands\\EmployeeCommands.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\Commands\\EmployeeCommands.cs",
+              "RelativeToolTip": "CQRS_Demo\\Commands\\EmployeeCommands.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:47:21.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "CQRS_Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\Program.cs",
+              "RelativeToolTip": "CQRS_Demo\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:14:02.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeQueriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\Repositories\\EmployeeQueriesRepository.cs",
+              "RelativeDocumentMoniker": "CQRS_Demo\\Repositories\\EmployeeQueriesRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\Repositories\\EmployeeQueriesRepository.cs",
+              "RelativeToolTip": "CQRS_Demo\\Repositories\\EmployeeQueriesRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:43:29.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeCommandsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\Repositories\\EmployeeCommandsRepository.cs",
+              "RelativeDocumentMoniker": "CQRS_Demo\\Repositories\\EmployeeCommandsRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\Repositories\\EmployeeCommandsRepository.cs",
+              "RelativeToolTip": "CQRS_Demo\\Repositories\\EmployeeCommandsRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:22:31.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeQueries.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\Queries\\IEmployeeQueries.cs",
+              "RelativeDocumentMoniker": "CQRS_Demo\\Queries\\IEmployeeQueries.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\Queries\\IEmployeeQueries.cs",
+              "RelativeToolTip": "CQRS_Demo\\Queries\\IEmployeeQueries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:45:34.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "CQRS_Demo\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "CQRS_Demo\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:48:25.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CQRS_Demo\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\Models\\Employee.cs",
+              "RelativeToolTip": "CQRS_Demo\\Models\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:49:15.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeCommands.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\Commands\\IEmployeeCommands.cs",
+              "RelativeDocumentMoniker": "CQRS_Demo\\Commands\\IEmployeeCommands.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\Commands\\IEmployeeCommands.cs",
+              "RelativeToolTip": "CQRS_Demo\\Commands\\IEmployeeCommands.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:46:49.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmployeeCommandsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\Repositories\\IEmployeeCommandsRepository.cs",
+              "RelativeDocumentMoniker": "CQRS_Demo\\Repositories\\IEmployeeCommandsRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\Repositories\\IEmployeeCommandsRepository.cs",
+              "RelativeToolTip": "CQRS_Demo\\Repositories\\IEmployeeCommandsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:41:41.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployeeQueriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\Repositories\\IEmployeeQueriesRepository.cs",
+              "RelativeDocumentMoniker": "CQRS_Demo\\Repositories\\IEmployeeQueriesRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\CQRS\\CQRS\\CQRS_Demo\\CQRS_Demo\\Repositories\\IEmployeeQueriesRepository.cs",
+              "RelativeToolTip": "CQRS_Demo\\Repositories\\IEmployeeQueriesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:42:46.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

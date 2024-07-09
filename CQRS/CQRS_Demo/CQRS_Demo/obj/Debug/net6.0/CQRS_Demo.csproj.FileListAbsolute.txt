@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\CQRS\CQRS\CQRS_Demo\CQRS_Demo\obj\Debug\net6.0\CQRS_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\CQRS\CQRS\CQRS_Demo\CQRS_Demo\obj\Debug\net6.0\CQRS_Demo.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\CQRS\CQRS\CQRS_Demo\CQRS_Demo\obj\Debug\net6.0\CQRS_Demo.AssemblyInfo.cs
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\CQRS\CQRS\CQRS_Demo\CQRS_Demo\obj\Debug\net6.0\CQRS_Demo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\CQRS\CQRS\CQRS_Demo\CQRS_Demo\bin\Debug\net6.0\CQRS_Demo.exe
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\CQRS\CQRS\CQRS_Demo\CQRS_Demo\bin\Debug\net6.0\CQRS_Demo.deps.json
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\CQRS\CQRS\CQRS_Demo\CQRS_Demo\bin\Debug\net6.0\CQRS_Demo.runtimeconfig.json
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\CQRS\CQRS\CQRS_Demo\CQRS_Demo\bin\Debug\net6.0\CQRS_Demo.dll
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\CQRS\CQRS\CQRS_Demo\CQRS_Demo\bin\Debug\net6.0\CQRS_Demo.pdb
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\CQRS\CQRS\CQRS_Demo\CQRS_Demo\obj\Debug\net6.0\CQRS_Demo.dll
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\CQRS\CQRS\CQRS_Demo\CQRS_Demo\obj\Debug\net6.0\refint\CQRS_Demo.dll
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\CQRS\CQRS\CQRS_Demo\CQRS_Demo\obj\Debug\net6.0\CQRS_Demo.pdb
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\CQRS\CQRS\CQRS_Demo\CQRS_Demo\obj\Debug\net6.0\CQRS_Demo.genruntimeconfig.cache
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\CQRS\CQRS\CQRS_Demo\CQRS_Demo\obj\Debug\net6.0\ref\CQRS_Demo.dll
